@@ -1,7 +1,7 @@
 <h1 align="center">Hola, saludos 👋, yo soy Axel Pando</h1>
 <h3 align="center">Un apasionado Desarrollador Web con mucho interes en las tecnologías y me encanta estar en un continuo preceso de aprendizaje, asi con muchas ganas de generar buenos hábitos de trabajo y buena onda con la gente.</h3>
 
-- 💬Me puedes preguntar sobre las siguientes tecnologías como **HTML, CSS, Bootstrap, JavaScript,PHP,SQL, MYSQL **
+- 💬Me puedes preguntar sobre las siguientes tecnologías como **HTML, CSS, Bootstrap, JavaScript, PHP, SQL y MYSQL **
 
 - 📫 Puedes mandarme un correo a **pandohaxel@gmail.com**
 
