@@ -1,11 +1,11 @@
 <h1 align="center">Hola, saludos 👋, yo soy Axel Pando</h1>
-<h3 align="center">Un apasionado Desarrollador Web con mucho interes en las tecnologías</h3>
+<h3 align="center">Un apasionado Desarrollador Web con mucho interes en las tecnologías y me encanta estar en un continuo preceso de aprendizaje, asi con muchas ganas de generar buenos hábitos de trabajo y buena onda con la gente.</h3>
 
 - 💬Me puedes preguntar sobre las siguientes tecnologías como **HTML, CSS, Boootstrap, JavaScript,PHP,SQL, MYSQL,**
 
 - 📫 Puedes mandarme un correo a **pandohaxel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Para conectar conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/axel-hernan-pando/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/axel-hernan-pando/" height="30" width="40" /></a>
 </p>
